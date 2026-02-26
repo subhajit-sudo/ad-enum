@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,40:1a0000,70:8b0000,100:ff0000&height=220&section=header&text=AD-ENUM%20v5.0&fontSize=72&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Ultimate%20Active%20Directory%20Enumerator%20%26%20Hash%20Extractor&descAlignY=58&descSize=18&descColor=ff8888" width="100%"/>
+
 
 </div>
 

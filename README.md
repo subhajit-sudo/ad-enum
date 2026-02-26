@@ -362,15 +362,12 @@ Contributions, bug reports, and feature requests are welcome!
 4. Push: `git push origin feature/add-zerologon`
 5. Open a **Pull Request**
 
----
-
 <div align="center">
 
 ---
 
 ### 🌟 If this tool helped you, drop a star!
 
-[![Star History Chart](https://api.star-history.com/svg?repos=subhajit-sudo/ad-enum&type=Date)](https://star-history.com/#subhajit-sudo/ad-enum&Date)
 
 ---
 

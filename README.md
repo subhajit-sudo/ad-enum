@@ -1,5 +1,3 @@
-![AD-ENUM Banner](ad_enum_banner_1772130719450.png)
-
 # 🛡️ AD-ENUM v5.0
 ### *The Ultimate Active Directory Enumerator & Hash Extractor*
 

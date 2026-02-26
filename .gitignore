@@ -1,0 +1,11 @@
+ad-enum-results/
+wordlists/rockyou.txt
+*.hive
+*.ntds
+*.sam
+/tmp/
+.DS_Store
+*.gnmap
+*.nmap
+*.xml
+result.txt
